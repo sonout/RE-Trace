@@ -1,0 +1,13 @@
+{
+  "region":
+  {
+    "cityname":"sf",
+    "minlon":-122.5183,
+    "minlat":37.085,
+    "maxlon":-121.5927,
+    "maxlat":38.3473,
+    "cellsize":100.0,
+    "minfreq":100
+  }
+}
+
